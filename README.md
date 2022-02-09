@@ -1,3 +1,5 @@
+![](https://lh5.googleusercontent.com/k7KdlChHFJ8VdMCGeYaHYxB-u9yKrTw3AKFxaXKz1v2tqWPA7QSn9DQeZz3DtPvE-oxzwtRF_CdXiwTQCFcPtPgWGHwavMk4zzO64sAfd09crJ5C=w1280)
+![](https://logos-marcas.com/wp-content/uploads/2020/04/Minecraft-Logo.png)
 **SCHEDULE**
 
 | **Materia**                    | **Horario** |
