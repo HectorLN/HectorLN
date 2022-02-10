@@ -13,6 +13,9 @@
 | Lenguaje de  Interfaz          | L-J 4-5 pm  |
 | Taller de Sistemas  Operativos | L-J 5-6 pm  |
 | Redes de  Computadoras         | L-V 6-7 pm  |
+
+
+#### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
 <!--
 **HectorLN/HectorLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
