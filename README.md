@@ -1,6 +1,6 @@
-![](https://lh5.googleusercontent.com/k7KdlChHFJ8VdMCGeYaHYxB-u9yKrTw3AKFxaXKz1v2tqWPA7QSn9DQeZz3DtPvE-oxzwtRF_CdXiwTQCFcPtPgWGHwavMk4zzO64sAfd09crJ5C=w1280)
+![](https://cdna.artstation.com/p/assets/images/images/047/619/580/large/g-o-s-h-a-2.jpg?1648032444)
 
-![](https://cdn.apexstats.dev/ProjectRanked/RankBadges/BR/Apex%20Predator.png)
+![](https://www.freepnglogos.com/uploads/download-destiny-logo/destiny-2-game-logo-transparent-7.png)
 
 
 **SCHEDULE**
