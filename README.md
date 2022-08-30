@@ -7,12 +7,12 @@
 
 | **Materia**                    | **Horario** |
 |--------------------------------|-------------|
-| Ing. de Software               | L-V 1-2 pm  |
-| Admin de bases de datos        | L-V 2-3 pm  |
-| Lenguajes y  Automatas I       | L-V 3-4 pm  |
-| Lenguaje de  Interfaz          | L-J 4-5 pm  |
-| Taller de Sistemas  Operativos | L-J 5-6 pm  |
-| Redes de  Computadoras         | L-V 6-7 pm  |
+| Taller de SO                   | L-V 2-3 pm  |
+| Gestion de proyectos de soft   | L-V 3-4 pm  |
+| redes de datos                 | L-V 4-5 pm  |
+| Sistemas programables          | L-J 5-6 pm  |
+| Lenguajes y automatas 2        | L-J 6-7 pm  |
+| Programacion Logica            | L-V 7-8 pm  |
 
 
 #### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
